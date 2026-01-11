@@ -1,0 +1,35 @@
+\begin{thebibliography}{999}
+
+\bibitem[Chakraborty et~al.(2021)Chakraborty, Alam, Dey, Chattopadhyay, and Mukhopadhyay]{chakraborty2021survey}
+Chakraborty, A.; Alam, M.; Dey, V.; Chattopadhyay, A.; Mukhopadhyay, D.
+\newblock A survey on adversarial attacks and defences.
+\newblock {\em CAAI Transactions on Intelligence Technology} {\bf 2021}, {\em 6},~25--45.
+\newblock \href{https://doi.org/10.1049/cit2.12028}{[CrossRef]\!}
+
+\bibitem[Wang et~al.(2022)Wang, Liu, Chang, Wang, and Rodriguez]{wang2022ab}
+Wang, Y.; Liu, J.; Chang, X.; Wang, J.; Rodriguez, R.J.
+\newblock AB-FGSM: AdaBelief optimizer and FGSM-based approach to generate adversarial examples.
+\newblock {\em Journal of Information Security and Applications} {\bf 2022}, {\em 68},~103227.
+
+\bibitem[Sen and Dasgupta(2023)]{sen2023adversarial}
+Sen, J.; Dasgupta, S.
+\newblock Adversarial attacks on image classification models: FGSM and patch attacks and their impact.
+\newblock {\em arXiv preprint arXiv:2307.02055} {\bf 2023}.
+
+\bibitem[Sen(2024)]{10.1007/978-981-97-3523-5_26}
+Sen, J.
+\newblock The FGSM Attack on Image Classification Models and Distillation as Its Defense.
+\newblock In Proceedings of the Advances in Distributed Computing and Machine Learning; Nanda, U.; Tripathy, A.K.; Sahoo, J.P.; Sarkar, M.; Li, K.C., Eds., Singapore,  2024; pp. 347--360.
+
+\bibitem[Lupart and Clinchant(2023)]{lupart2023study}
+Lupart, S.; Clinchant, S.
+\newblock A study on FGSM adversarial training for neural retrieval.
+\newblock In Proceedings of the European Conference on Information Retrieval. Springer,  2023, pp. 484--492.
+
+\bibitem[You et~al.(2023)You, Lu, and Tang]{su15021233}
+You, H.; Lu, Y.; Tang, H.
+\newblock Plant Disease Classification and Adversarial Attack Using SimAM-EfficientNet and GP-MI-FGSM.
+\newblock {\em Sustainability} {\bf 2023}, {\em 15}.
+\newblock {\url{https://doi.org/10.3390/su15021233}}.
+
+\end{thebibliography}
